@@ -1,1 +1,1 @@
-# stud_info_system
+// task 3 - encapsulation
